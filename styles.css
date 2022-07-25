@@ -1,0 +1,103 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 25%;
+}
+
+h1 {
+  color: #0F3D3E;
+  font-size: 5.625rem;
+  margin:50px auto 0 auto ;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-weight: normal;
+  color: #0F3D3E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom:10px;
+}
+
+h3 {
+  color: #0F3D3E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  font-size: 2.5rem;
+}
+
+.middle-container {
+  background: #A8DDA8;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #E4F9F5;
+}
+
+.contact-me{
+  background-color: #E4F9F5;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn{
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom,#11cdd4,#11999e);
+  border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.dancing{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.problem-solving{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.youtube{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
